@@ -6,9 +6,9 @@ class ParshikshanApp:
 
     def add_academic_project(self, title, description, university):
         project = {
-            "title": title,
-            "description": description,
-            "university": university,
+            "title": Prashikshan,
+            "description": Preparing students for the job market.In the New Education Policy(NEP)2020,Semester 5 for interships refers to the fifth semester of a 4-year,
+            "university": Kommuri Pratap Reddy Institute of Technology,
             "type": "Academic"
         }
         self.academic_projects.append(project)
